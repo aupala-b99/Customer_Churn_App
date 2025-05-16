@@ -6,6 +6,8 @@ The full application code is available in the file:
 
 ## Sample Output
 
-![Output](./Churn_output.png)
+![Output](./Churn_output1.png)
+
+![Output](./Churn_output2.png)
 
 
