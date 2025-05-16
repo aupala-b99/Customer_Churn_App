@@ -15,9 +15,9 @@ The full application code is available in the file:
 ----
 ## Tools Used
 
--Snowflake
--Python
--Streamlit
+- Snowflake
+- Python
+- Streamlit
 
 ----
 
