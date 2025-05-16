@@ -6,14 +6,14 @@ The full application code is available in the file:
 
 ----
 
-## Sample Output
+## 📈 Sample Output
 
 ![Output](./Churn_output1.png)
 
 ![Output](./Churn_output2.png)
 
 ----
-## Tools Used
+## 🛠️ Tools Used:
 
 - Snowflake
 - Python
